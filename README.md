@@ -22,3 +22,6 @@ adding second line of rrebase example
 
 
 stash example changes.....
+
+
+some stash example edits
